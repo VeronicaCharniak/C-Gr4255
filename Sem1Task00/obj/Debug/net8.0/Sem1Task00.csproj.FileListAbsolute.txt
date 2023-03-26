@@ -1,0 +1,15 @@
+C:\Users\veron\Desktop\Разработчик\Введение\3. C#\Семинары С#\C-Gr4255\Sem1Task00\bin\Debug\net8.0\Sem1Task00.exe
+C:\Users\veron\Desktop\Разработчик\Введение\3. C#\Семинары С#\C-Gr4255\Sem1Task00\bin\Debug\net8.0\Sem1Task00.deps.json
+C:\Users\veron\Desktop\Разработчик\Введение\3. C#\Семинары С#\C-Gr4255\Sem1Task00\bin\Debug\net8.0\Sem1Task00.runtimeconfig.json
+C:\Users\veron\Desktop\Разработчик\Введение\3. C#\Семинары С#\C-Gr4255\Sem1Task00\bin\Debug\net8.0\Sem1Task00.dll
+C:\Users\veron\Desktop\Разработчик\Введение\3. C#\Семинары С#\C-Gr4255\Sem1Task00\bin\Debug\net8.0\Sem1Task00.pdb
+C:\Users\veron\Desktop\Разработчик\Введение\3. C#\Семинары С#\C-Gr4255\Sem1Task00\obj\Debug\net8.0\Sem1Task00.csproj.AssemblyReference.cache
+C:\Users\veron\Desktop\Разработчик\Введение\3. C#\Семинары С#\C-Gr4255\Sem1Task00\obj\Debug\net8.0\Sem1Task00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veron\Desktop\Разработчик\Введение\3. C#\Семинары С#\C-Gr4255\Sem1Task00\obj\Debug\net8.0\Sem1Task00.AssemblyInfoInputs.cache
+C:\Users\veron\Desktop\Разработчик\Введение\3. C#\Семинары С#\C-Gr4255\Sem1Task00\obj\Debug\net8.0\Sem1Task00.AssemblyInfo.cs
+C:\Users\veron\Desktop\Разработчик\Введение\3. C#\Семинары С#\C-Gr4255\Sem1Task00\obj\Debug\net8.0\Sem1Task00.csproj.CoreCompileInputs.cache
+C:\Users\veron\Desktop\Разработчик\Введение\3. C#\Семинары С#\C-Gr4255\Sem1Task00\obj\Debug\net8.0\Sem1Task00.dll
+C:\Users\veron\Desktop\Разработчик\Введение\3. C#\Семинары С#\C-Gr4255\Sem1Task00\obj\Debug\net8.0\refint\Sem1Task00.dll
+C:\Users\veron\Desktop\Разработчик\Введение\3. C#\Семинары С#\C-Gr4255\Sem1Task00\obj\Debug\net8.0\Sem1Task00.pdb
+C:\Users\veron\Desktop\Разработчик\Введение\3. C#\Семинары С#\C-Gr4255\Sem1Task00\obj\Debug\net8.0\Sem1Task00.genruntimeconfig.cache
+C:\Users\veron\Desktop\Разработчик\Введение\3. C#\Семинары С#\C-Gr4255\Sem1Task00\obj\Debug\net8.0\ref\Sem1Task00.dll
