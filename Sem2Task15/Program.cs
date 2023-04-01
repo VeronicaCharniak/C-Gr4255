@@ -18,3 +18,24 @@ else
         Console.WriteLine("Выходной день");
     }
 }
+
+// второй способ при помощи словаря
+Dictionary<int, string> daysOfWeek = new Dictionary<int, string>();
+daysOfWeek.Add(1, "Будний день");
+daysOfWeek.Add(2, "Будний день");
+daysOfWeek.Add(3, "Будний день");
+daysOfWeek.Add(4, "Будний день");
+daysOfWeek.Add(5, "Будний день");
+daysOfWeek.Add(6, "Выходной день");
+daysOfWeek.Add(7, "Будний день");
+
+Console.Write("Введите день недели (1-7): ");
+int dday = int.Parse(Console.ReadLine() ?? "0");
+if(daysOfWeek.ContainsKey(dday))
+{
+    Console.WriteLine(daysOfWeek[dday]);
+}
+else
+{
+    Console.WriteLine("Это не день недели");
+}
