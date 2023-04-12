@@ -21,6 +21,17 @@ double[] Gen1DArray(int len, int bot, int top)
     return res;
 }
 
+//Метод, генерирующий массив вещественных чисел - ДРУГОЙ СПОСОБ
+// double[] GenArray(int len, int bot, int top)
+// {
+//     double[] arr = new double[len];
+//     for(int i = 0; i < len; i++)
+//     {
+//         arr [i] = new Random().Next(bot, top+1) + new Random().NextDouble();
+//     }
+//     return arr;
+// }
+
 //Метод печати одномерного массива
 void Print1DArray(double[] arr)
 {
