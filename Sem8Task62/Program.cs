@@ -7,6 +7,7 @@ int temp = 1;
 int i = 0;
 int j = 0;
 
+//генерация спиральной матрицы
 while (temp <= squareMatrix.GetLength(0) * squareMatrix.GetLength(1))
 {
   squareMatrix[i, j] = temp;
@@ -27,7 +28,7 @@ while (temp <= squareMatrix.GetLength(0) * squareMatrix.GetLength(1))
     i--;
 }
 
-void Print2DArray(int[,] array)
+void PrintSpiralMatrix(int[,] array)
 {
   for (int i = 0; i < array.GetLength(0); i++)
   {
@@ -43,4 +44,4 @@ void Print2DArray(int[,] array)
   }
 }
 
-Print2DArray(squareMatrix);
+PrintSpiralMatrix(squareMatrix);
