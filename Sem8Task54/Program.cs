@@ -63,7 +63,7 @@ void BubbleSort(int[] arr)
     }
 }
 
-
+//Метод, сортирующий массив построчно
 void SortingRaws(int[,] arr)
 {
     int[] buffer = new int[arr.GetLength(1)];
